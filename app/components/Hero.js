@@ -5,7 +5,7 @@ import React from 'react';
 export default function HeroPage () {
   return (
     <div className="h-screen">
-      aa
+      Hero Section
     </div>
   );
 };
